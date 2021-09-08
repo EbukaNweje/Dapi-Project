@@ -1,0 +1,99 @@
+/* .EzeMainContainer{
+    height: 100vh;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.containerHoderEze{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.meContainerEze{
+    width: 350px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.me{
+    height: 350px;
+    width: 320px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+.me1{
+    width: 320px;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 340px) {
+    .meContainerEze{
+        width: 310px;
+    }
+    .me{
+        width: 300px;
+    }
+
+    .computerContainerEze{
+        width: 310px;
+    }
+
+    .comp1{
+       width: 300px;
+    }
+}
+
+.computerContainerEze{
+    width: 350px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.computer{
+    height: 350px;
+    width: 320px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+.comp1{
+    width: 320px;
+    display: flex;
+    justify-content: center;
+}
+
+.codeContainer{
+    width: 150px;
+    text-align: center;
+    font-size: 25px;
+    color: blue;
+    margin-top: 50px;
+
+    animation: ebuka 35s steps(25, end), blink-caret 0.85s step-end infinite;
+    animation-iteration-count: infinite;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+}
+
+@keyframes ebuka{
+    from{
+        width: 0px;
+    }
+}
+
+.color{
+    color: #812790; 
+    font-weight: bold;
+    border-radius: ;
+    cursor: pointer;
+} */

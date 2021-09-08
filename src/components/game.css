@@ -1,0 +1,84 @@
+/* body{
+    background: linear-gradient(to right, #f8aa00, #fb4801)
+}
+
+.mainContainer{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.HeaderContainer{
+    width: 100%;
+    text-align: center;
+}
+.HeaderContainer .erro{  
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.HeaderContainerp{
+    width: 100%;
+    font-size: 18px;
+    margin-top: -70px;
+    text-align: center;
+}
+
+.gameContainer{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.myBox{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+}
+.myBox2{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    margin: 60px;
+    color: black;
+}
+
+.Box{
+    width: 30%;
+    height: 250px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: black;
+    align-items: center;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+}
+
+.result{
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: -50px;
+}
+
+.rod{
+    width:30px;
+    height: 30px;
+    background-color: #fb4801;
+    display: flex;
+    border-radius: 100%;
+    justify-content: space-around;
+    margin: 20px;
+    align-items: center;
+    font-size: 15px;
+    cursor: pointer;
+} */
